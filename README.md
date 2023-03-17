@@ -1,10 +1,6 @@
 ### Howdy world! 👋
 
-👨‍💻 Working as Data Scientist
-🎓 Graduated in Big Data and Analytical Intelligence from PUCPR
-🐍 Experience in Python (Pandas, NumPy, MatPlotLib, Seaborn, Scikit-learn, NLTK) and SQL
-📊 Experience in Dashboards and data visualization (Looker, Power BI, Tableau, Data Studio, Sheets)
-🖥️ Working for 11 year with IT
+I'm Guilherme, Brazilian Data Scientist, Graduated in Big Data and Analytical Intelligence and i have been woring with technology for 11 years, and the last 5 years stuying and working with Data.
 
 
 ## More about:
@@ -23,8 +19,6 @@
   <img align="left" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
-
-
 
 <br/>
 <br/>
