@@ -1,6 +1,6 @@
 ### Howdy world! 👋
 
-I'm Guilherme, Brazilian Data Scientist, Graduated in Big Data and Analytical Intelligence and i have been woring with technology for 11 years, and the last 5 years stuying and working with Data.
+I'm Guilherme, Brazilian Data Scientist, Graduated in Big Data and Analytical Intelligence, post graduated in Data Science and i have been woring with technology for 14 years, and the last 6 years stuying and working with Data.
 
 
 ## More about:
